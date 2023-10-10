@@ -259,6 +259,398 @@ footer {
 /*--------------------------
   media-quary start end here 
  ---------------------------*/
+@media only screen and (max-width: 992px) {
+
+    /*--------- banner section --------*/
+    .banner {
+        background-color: #78853F;
+        width: 100%;
+        height: 35%;
+    }
+
+    .slider-div {
+        height: 100%;
+        width: 100%;
+        padding: 3%;
+        position: relative;
+        top: 60%;
+
+    }
+
+
+
+
+    .slider-text {
+        top: 0%;
+        left: 15%;
+        width: 80%;
+        bottom: 20%;
+        font-size: 10px;
+        /* text-align: center; */
+
+
+    }
+
+    .slider-text {
+        width: 60%;
+        font-size: 15px;
+        margin-top: 40px;
+
+    }
+
+    /*--------- banner section ----------*/
+
+    /*---------- about section -----------*/
+    .about {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .about-img {
+        width: 85%;
+        padding-right: 27%;
+    }
+
+    .about-text {
+        text-align: center;
+    }
+
+    .py-3 {
+        margin-left: 40px;
+    }
+
+    .about-btn {
+        margin-bottom: 20px;
+    }
+
+    /*---------- about section -----------*/
+
+    /*---------- revieew section -----------*/
+    .rivew-text {
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+
+    .customer-img {
+        margin-top: 20%;
+        width: 40%;
+        margin: auto;
+        border: 5px solid red;
+        border-radius: 50%;
+        margin-bottom: 35%;
+    }
+
+    .review-text {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    .text {
+        margin-bottom: 15px;
+    }
+
+    .text-dark {
+        font-size: 10px;
+        width: 60%;
+        height: 100%;
+        padding-top: 320px;
+    }
+
+    /*---------- revieew section -----------*/
+
+    /*------------ card section -----------*/
+    .card-text {
+        width: 70%;
+    }
+
+    .card-container {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    .text-start {
+        padding-left: 20px;
+    }
+
+    .card-title {
+        text-align: center;
+    }
+
+
+
+    /*------------ card section -----------*/
+
+    /*------------- contact section -----------*/
+    .img-div {
+        width: 170%;
+        padding-right: 90px;
+    }
+
+    .contact-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img-contact {
+        width: 200%;
+        height: 450px;
+        margin-bottom: 20px;
+    }
+
+    /*------------- contact section -----------*/
+
+    /*----------- form section ------------*/
+    .form-control {
+        width: 197%;
+    }
+
+    .text-cnct {
+        font-size: 20px;
+        width: 100%;
+        align-items: center;
+    }
+
+    .cont-btn {
+        margin-left: 80%;
+    }
+
+    .cont {
+        display: flex;
+        flex-direction: column;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    /*----------- form section ------------*/
+
+
+    /*-------- footer section ----------*/
+    .footer-input {
+        margin-left: 30px;
+    }
+
+    .footer-btn {
+        padding: 3px 55px;
+    }
+
+    .input-feild {
+        width: 57%;
+        margin: auto;
+    }
+
+    .text-white {
+        margin-left: 40%;
+    }
+
+    .footer-text {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-top: 10%;
+    }
+
+    /*-------- footer section ----------*/
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    /*--------- banner section --------*/
+    .banner {
+        background-color: #78853F;
+        width: 100%;
+        height: 35%;
+    }
+
+    .slider-div {
+        height: 100%;
+        width: 100%;
+        padding: 3%;
+        position: relative;
+        top: 60%;
+
+    }
+
+
+
+
+    .slider-text {
+        top: 0%;
+        left: 15%;
+        width: 80%;
+        bottom: 20%;
+        font-size: 10px;
+        /* text-align: center; */
+
+
+    }
+
+    .slider-text {
+        width: 60%;
+        font-size: 15px;
+        margin-top: 40px;
+
+    }
+
+    /*--------- banner section ----------*/
+
+    /*---------- about section -----------*/
+    .about {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .about-img {
+        width: 85%;
+        padding-right: 27%;
+    }
+
+    .about-text {
+        text-align: center;
+    }
+
+    .py-3 {
+        margin-left: 40px;
+    }
+
+    .about-btn {
+        margin-bottom: 20px;
+    }
+
+    /*---------- about section -----------*/
+
+    /*---------- revieew section -----------*/
+    .rivew-text {
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+
+    .customer-img {
+        margin-top: 20%;
+        width: 40%;
+        margin: auto;
+        border: 5px solid red;
+        border-radius: 50%;
+        margin-bottom: 35%;
+    }
+
+    .review-text {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+    .text {
+        margin-bottom: 15px;
+    }
+
+    .text-dark {
+        font-size: 10px;
+        width: 60%;
+        height: 100%;
+        padding-top: 320px;
+    }
+
+    /*---------- revieew section -----------*/
+
+    /*------------ card section -----------*/
+    .card-text {
+        width: 70%;
+    }
+
+    .card-container {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    .text-start {
+        padding-left: 20px;
+    }
+
+    .card-title {
+        text-align: center;
+    }
+
+
+
+    /*------------ card section -----------*/
+
+    /*------------- contact section -----------*/
+    .img-div {
+        width: 170%;
+        padding-right: 90px;
+    }
+
+    .contact-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img-contact {
+        width: 200%;
+        height: 450px;
+        margin-bottom: 20px;
+    }
+
+    /*------------- contact section -----------*/
+
+    /*----------- form section ------------*/
+    .form-control {
+        width: 197%;
+    }
+
+    .text-cnct {
+        font-size: 20px;
+        width: 100%;
+        align-items: center;
+    }
+
+    .cont-btn {
+        margin-left: 80%;
+    }
+
+    .cont {
+        display: flex;
+        flex-direction: column;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    /*----------- form section ------------*/
+
+
+    /*-------- footer section ----------*/
+    .footer-input {
+        margin-left: 30px;
+    }
+
+    .footer-btn {
+        padding: 3px 55px;
+    }
+
+    .input-feild {
+        width: 57%;
+        margin: auto;
+    }
+
+    .text-white {
+        margin-left: 40%;
+    }
+
+    .footer-text {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-top: 10%;
+    }
+
+    /*-------- footer section ----------*/
+
+}
+
 @media only screen and (max-width: 576px) {
 
     /*--------- banner section ----------*/
@@ -295,8 +687,8 @@ footer {
         width: 80%;
         font-size: 10px;
 
-
     }
+
 
     /*--------- banner section ----------*/
 
@@ -371,6 +763,7 @@ footer {
 
     .text-start {
         padding-left: 20px;
+        width: 120%;
     }
 
     .card-title {
@@ -394,6 +787,7 @@ footer {
 
     .img-contact {
         width: 200%;
+        height: 350px;
         margin-bottom: 20px;
     }
 
@@ -426,15 +820,16 @@ footer {
 
     /*-------- footer section ----------*/
     .footer-input {
-        margin-left: 30px;
+        margin-left: 10px;
     }
 
     .footer-btn {
-        padding: 3px 38px;
+        padding: 3px 5px;
     }
 
     .input-feild {
-        width: 100%;
+        width: 90%;
+        margin: auto;
     }
 
     .text-white {
