@@ -117,7 +117,7 @@
     </div>
     <!-- banner ends here -->
 
-    <!-- card section start here -->
+    <!-- service section start here -->
     <section>
         <div class="text-center mt-5 card-text container pt-5">
             <h1 class="fw-bold text-start">What We Offer</h1>
@@ -227,7 +227,7 @@
             </div>
         </div>
     </section>
-    <!-- card section end here -->
+    <!-- service section end here -->
 
 
     <!-- about section start here -->
@@ -318,23 +318,21 @@
         <h1 class="text-center py-5 text-cnct">REQUEST<span class="text-white"> A CALL BACK</span></h1>
         <div class="contact-container container">
             <div class="contact-form w-50">
-                <form action="">
+                <form action="https://formspree.io/f/xbjvqgkb" method="post">
                     <div class="mb-3">
-                        <input type="name" class="form-control" id="exampleFormControlInput1"
-                            placeholder="Enter Your Name">
+                        <input type="text" class="form-control" name="fname" placeholder="Enter Your Name">
                     </div>
                     <div class="mb-3">
-                        <input type="phone" class="form-control" id="exampleFormControlInput1"
-                            placeholder="Enter Your Phone">
+                        <input type="tel" id="phone" name="phone" class="form-control" placeholder="Enter Your Phone">
                     </div>
                     <div class="mb-3">
-                        <input type="email" class="form-control" id="exampleFormControlInput1"
-                            placeholder="Enter Your Email">
+                        <input type="email" class="form-control" name="email" placeholder="Enter Your Email">
+
                     </div>
                     <div class="mb-3">
-                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
+                        <textarea name="message" class="form-control" rows="6"></textarea>
                     </div>
-                    <button class="cont-btn">SEND</button>
+                    <button type="submit" class="cont-btn">SEND</button>
                 </form>
             </div>
             <div class="contact-img w-50">
