@@ -218,9 +218,10 @@ footer {
 }
 
 .footer-btn {
-    padding: 3px 37px;
+    padding: 3px 39px;
     border-radius: 20px;
     margin-left: 22px;
+    height: 30%;
     border: none;
     background-color: #FFFF00;
 }
@@ -228,6 +229,7 @@ footer {
 .footer-input {
     margin-left: 25px;
     border-radius: 20px;
+    height: 30%;
     border: none;
 }
 
