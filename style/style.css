@@ -61,7 +61,7 @@
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    margin-bottom: 140px;
+    margin-bottom: 100px;
     margin-left: 3px;
 
 }
@@ -218,7 +218,7 @@ footer {
 }
 
 .footer-btn {
-    padding: 3px 39px;
+    padding: 3px 30px;
     border-radius: 20px;
     margin-left: 22px;
     height: 30%;
@@ -227,7 +227,7 @@ footer {
 }
 
 .footer-input {
-    margin-left: 25px;
+    margin-left: 20px;
     border-radius: 20px;
     height: 30%;
     border: none;
