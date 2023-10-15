@@ -218,7 +218,7 @@ footer {
 }
 
 .footer-btn {
-    padding: 3px 30px;
+    padding: 3px 15px;
     border-radius: 20px;
     margin-left: 22px;
     height: 30%;
@@ -227,14 +227,14 @@ footer {
 }
 
 .footer-input {
-    margin-left: 20px;
+    margin-left: 15px;
     border-radius: 20px;
     height: 30%;
     border: none;
 }
 
 .input-feild {
-    width: 30%;
+    width: 27%;
     height: 30%;
     border: none;
     background-color: #FFFFFF;
